@@ -10,6 +10,8 @@ From the terminal:
 
 ...or from the IDE by navigating to `Application.kt` and running the `main` function. 
 
+You can then reach its API at `localhost:8080/api/bbq?city=Amsterdam`
+
 ## Further reading
 Here are some of the resources we explored during the session, and additional materials for you to explore around Ktor.
 
